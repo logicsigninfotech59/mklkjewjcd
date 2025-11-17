@@ -1,122 +1,1588 @@
 [
-  {
-    "name": "Sophia",
-    "age": 24,
-    "gender": "Female",
-    "image": "https://images.unsplash.com/photo-1607746882042-944635dfe10e",
-    "location": "New York, USA",
-    "about": "Love traveling, coffee, and deep conversations ☕",
-    "interestedIn": "Men",
-    "lookingFor": "Friendship",
-    "activities": ["Travelling", "Watching movies or series", "Exploring nature"],
-    "personality": ["Adventurous and spontaneous", "Caring and emotional"],
-    "music": ["Pop", "Jazz", "Bollywood"],
-    "firstDate": "Coffee and good conversation",
-    "spendTime": "Traveling together"
-  },
-  {
-    "name": "Liam",
-    "age": 28,
-    "gender": "Male",
-    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e",
-    "location": "Sydney, Australia",
-    "about": "Fitness and travel enthusiast 🌏",
-    "interestedIn": "Women",
-    "lookingFor": "A serious relationship",
-    "activities": ["Working out", "Travelling", "Cooking"],
-    "personality": ["Adventurous and spontaneous", "Ambitious and driven"],
-    "music": ["Rock", "EDM"],
-    "firstDate": "Outdoor adventure",
-    "spendTime": "Traveling together"
-  },
-  {
-    "name": "Emma",
-    "age": 26,
-    "gender": "Female",
-    "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
-    "location": "London, UK",
-    "about": "Designer | Dreamer | Sunset lover 🌅",
-    "interestedIn": "Men",
-    "lookingFor": "A serious relationship",
-    "activities": ["Cooking", "Reading books", "Working out"],
-    "personality": ["Calm and thoughtful", "Creative and artistic"],
-    "music": ["Classical", "Jazz", "EDM"],
-    "firstDate": "Dinner date",
-    "spendTime": "Cooking or eating out"
-  },
-  {
-    "name": "Noah",
-    "age": 30,
-    "gender": "Male",
-    "image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce",
-    "location": "Amsterdam, Netherlands",
-    "about": "Musician | Coffee addict | Chill vibes only",
-    "interestedIn": "Women",
-    "lookingFor": "Friendship",
-    "activities": ["Reading books", "Exploring nature", "Cooking"],
-    "personality": ["Creative and artistic", "Calm and thoughtful"],
-    "music": ["Jazz", "Classical", "Pop"],
-    "firstDate": "Coffee and good conversation",
-    "spendTime": "Watching shows or movies"
-  },
-  {
-    "name": "Ava",
-    "age": 25,
-    "gender": "Female",
-    "image": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e",
-    "location": "Paris, France",
-    "about": "Music, laughter & good vibes only 🎶",
-    "interestedIn": "Everyone",
-    "lookingFor": "Casual dating",
-    "activities": ["Partying", "Travelling", "Watching movies or series"],
-    "personality": ["Funny and outgoing", "Adventurous and spontaneous"],
-    "music": ["Pop", "Hip-Hop", "EDM"],
-    "firstDate": "Movie or concert night",
-    "spendTime": "Doing something adventurous"
-  },
-  {
-    "name": "Olivia",
-    "age": 27,
-    "gender": "Female",
-    "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9",
-    "location": "Toronto, Canada",
-    "about": "Foodie | Adventurer | Bookworm 📚",
-    "interestedIn": "Men",
-    "lookingFor": "Just exploring",
-    "activities": ["Cooking", "Exploring nature", "Reading books"],
-    "personality": ["Caring and emotional", "Ambitious and driven"],
-    "music": ["Rock", "Bollywood", "Pop"],
-    "firstDate": "Long walk or beach outing",
-    "spendTime": "Relaxing at home"
-  },
-  {
-    "name": "Ethan",
-    "age": 29,
-    "gender": "Male",
-    "image": "https://images.unsplash.com/photo-1603415526960-f7e0328ad8d5",
-    "location": "Los Angeles, USA",
-    "about": "Always chasing new experiences 🌄",
-    "interestedIn": "Women",
-    "lookingFor": "Casual dating",
-    "activities": ["Working out", "Travelling", "Watching movies or series"],
-    "personality": ["Funny and outgoing", "Ambitious and driven"],
-    "music": ["Rock", "Pop", "EDM"],
-    "firstDate": "Outdoor adventure",
-    "spendTime": "Doing something adventurous"
-  },
-  {
-    "name": "Riley",
-    "age": 26,
-    "gender": "Non-binary",
-    "image": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde",
-    "location": "Berlin, Germany",
-    "about": "Open-minded, creative soul 🎨",
-    "interestedIn": "Everyone",
-    "lookingFor": "Friendship",
-    "activities": ["Travelling", "Reading books", "Partying"],
-    "personality": ["Creative and artistic", "Funny and outgoing"],
-    "music": ["Jazz", "Pop", "Hip-Hop"],
-    "firstDate": "Coffee and good conversation",
-    "spendTime": "Watching shows or movies"
-  }
+    {
+        "name": "Julia Beyer",
+        "age": 21,
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/1.jpg",
+        "location": "Manhattan, New York, USA",
+        "about": "Love traveling, long drives, and deep conversations",
+        "gender": "Female",
+        "interestedIn": "Women",
+        "lookingFor": "A serious relationship",
+        "activities": [
+            "Exploring nature",
+            "Cooking",
+            "Reading books"
+        ],
+        "personality": [
+            "Funny and outgoing",
+            "Ambitious and driven"
+        ],
+        "music": [
+            "Bollywood",
+            "EDM",
+            "Hip-Hop"
+        ],
+        "firstDate": "Movie or concert night",
+        "spendTime": "Watching shows or movies"
+    },
+    {
+        "name": "Rebecca Summers",
+        "age": 22,
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/2.jpg",
+        "location": "Hollywood, Los Angeles, USA",
+        "about": "Coffee lover with a soft spot for quiet mornings",
+        "gender": "Female",
+        "interestedIn": "Men",
+        "lookingFor": "Casual dating",
+        "activities": [
+            "Watching movies or series",
+            "Working out",
+            "Cooking"
+        ],
+        "personality": [
+            "Calm and thoughtful",
+            "Creative and artistic"
+        ],
+        "music": [
+            "Pop",
+            "Bollywood",
+            "Hip-Hop"
+        ],
+        "firstDate": "Dinner date",
+        "spendTime": "Watching shows or movies"
+    },
+    {
+        "name": "Brissa Castaneda",
+        "age": 23,
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/3.jpg",
+        "location": "Downtown, Chicago, USA",
+        "about": "Curious mind, kind heart, and a passion for learning",
+        "gender": "Female",
+        "interestedIn": "Men",
+        "lookingFor": "Just exploring",
+        "activities": [
+            "Travelling",
+            "Reading books",
+            "Working out"
+        ],
+        "personality": [
+            "Calm and thoughtful",
+            "Adventurous and spontaneous"
+        ],
+        "music": [
+            "Classical",
+            "EDM",
+            "Rock"
+        ],
+        "firstDate": "Coffee and good conversation",
+        "spendTime": "Watching shows or movies"
+    },
+    {
+        "name": "Olivia Hart",
+        "age": 24,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/4.jpg",
+        "location": "Midtown, Houston, USA",
+        "about": "Big on good vibes, honesty, and real connections",
+        "interestedIn": "Everyone",
+        "lookingFor": "A serious relationship",
+        "activities": [
+            "Working out",
+            "Partying",
+            "Watching movies or series"
+        ],
+        "personality": [
+            "Adventurous and spontaneous",
+            "Funny and outgoing"
+        ],
+        "music": [
+            "EDM",
+            "Classical",
+            "Jazz"
+        ],
+        "firstDate": "Outdoor adventure",
+        "spendTime": "Watching shows or movies"
+    },
+    {
+        "name": "Tara Collins",
+        "age": 24,
+        "gender": "Prefer not to say",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/5.jpg",
+        "location": "Uptown, Dallas, USA",
+        "about": "Weekend explorer who enjoys simple moments",
+        "interestedIn": "Men",
+        "lookingFor": "Friendship",
+        "activities": [
+            "Exploring nature",
+            "Working out",
+            "Partying"
+        ],
+        "personality": [
+            "Funny and outgoing",
+            "Creative and artistic"
+        ],
+        "music": [
+            "Classical",
+            "Jazz",
+            "Rock"
+        ],
+        "firstDate": "Coffee and good conversation",
+        "spendTime": "Cooking or eating out"
+    },
+    {
+        "name": "Anjali Kapadia",
+        "age": 27,
+        "gender": "Prefer not to say",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/6.jpg",
+        "location": "Capitol Hill, Seattle, USA",
+        "about": "Music listener, book reader, and late-night thinker",
+        "interestedIn": "Women",
+        "lookingFor": "A serious relationship",
+        "activities": [
+            "Working out",
+            "Reading books",
+            "Travelling"
+        ],
+        "personality": [
+            "Calm and thoughtful",
+            "Creative and artistic"
+        ],
+        "music": [
+            "Classical",
+            "Bollywood",
+            "Pop"
+        ],
+        "firstDate": "Outdoor adventure",
+        "spendTime": "Relaxing at home"
+    },
+    {
+        "name": "Nichole Cooper",
+        "age": 28,
+        "gender": "Prefer not to say",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/7.jpg",
+        "location": "Mission District, San Francisco, USA",
+        "about": "Looking for meaningful conversations and genuine company",
+        "interestedIn": "Women",
+        "lookingFor": "A serious relationship",
+        "activities": [
+            "Exploring nature",
+            "Reading books",
+            "Watching movies or series"
+        ],
+        "personality": [
+            "Calm and thoughtful",
+            "Creative and artistic"
+        ],
+        "music": [
+            "EDM",
+            "Jazz",
+            "Bollywood"
+        ],
+        "firstDate": "Dinner date",
+        "spendTime": "Relaxing at home"
+    },
+    {
+        "name": "Ana Teracine",
+        "age": 24,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/8.jpg",
+        "location": "Back Bay, Boston, USA",
+        "about": "A mix of introvert energy and spontaneous plans",
+        "interestedIn": "Men",
+        "lookingFor": "Casual dating",
+        "activities": [
+            "Working out",
+            "Partying",
+            "Reading books"
+        ],
+        "personality": [
+            "Ambitious and driven",
+            "Caring and emotional"
+        ],
+        "music": [
+            "Jazz",
+            "Hip-Hop",
+            "Rock"
+        ],
+        "firstDate": "Outdoor adventure",
+        "spendTime": "Traveling together"
+    },
+    {
+        "name": "Caroline Cameron Brooks",
+        "age": 24,
+        "gender": "Prefer not to say",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/9.jpg",
+        "location": "Summerlin, Las Vegas, USA",
+        "about": "Obsessed with sunsets, beaches, and peaceful places",
+        "interestedIn": "Women",
+        "lookingFor": "A serious relationship",
+        "activities": [
+            "Working out",
+            "Exploring nature",
+            "Watching movies or series"
+        ],
+        "personality": [
+            "Ambitious and driven",
+            "Creative and artistic"
+        ],
+        "music": [
+            "Classical",
+            "Bollywood",
+            "EDM"
+        ],
+        "firstDate": "Movie or concert night",
+        "spendTime": "Relaxing at home"
+    },
+    {
+        "name": "Alina Vivero",
+        "age": 29,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/10.jpg",
+        "location": "Wynwood, Miami, USA",
+        "about": "Fitness enthusiast who enjoys balanced living",
+        "interestedIn": "Men",
+        "lookingFor": "A serious relationship",
+        "activities": [
+            "Exploring nature",
+            "Working out",
+            "Watching movies or series"
+        ],
+        "personality": [
+            "Ambitious and driven",
+            "Caring and emotional"
+        ],
+        "music": [
+            "Rock",
+            "Pop",
+            "Classical"
+        ],
+        "firstDate": "Long walk or beach outing",
+        "spendTime": "Doing something adventurous"
+    },
+    {
+        "name": "Maria Fernanda Vega",
+        "age": 34,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/11.jpg",
+        "location": "Downtown, Toronto, Canada",
+        "about": "Tech lover who enjoys building things",
+        "interestedIn": "Everyone",
+        "lookingFor": "Friendship",
+        "activities": [
+            "Travelling",
+            "Exploring nature",
+            "Cooking"
+        ],
+        "personality": [
+            "Adventurous and spontaneous",
+            "Funny and outgoing"
+        ],
+        "music": [
+            "Hip-Hop",
+            "Rock",
+            "Jazz"
+        ],
+        "firstDate": "Movie or concert night",
+        "spendTime": "Doing something adventurous"
+    },
+    {
+        "name": "Sandy Toupenet",
+        "age": 32,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/12.jpg",
+        "location": "Gastown, Vancouver, Canada",
+        "about": "Foodie on a mission to try every cuisine",
+        "interestedIn": "Everyone",
+        "lookingFor": "Just exploring",
+        "activities": [
+            "Partying",
+            "Cooking",
+            "Working out"
+        ],
+        "personality": [
+            "Ambitious and driven",
+            "Adventurous and spontaneous"
+        ],
+        "music": [
+            "Classical",
+            "Pop",
+            "Rock"
+        ],
+        "firstDate": "Long walk or beach outing",
+        "spendTime": "Relaxing at home"
+    },
+    {
+        "name": "Michelle Carter",
+        "age": 23,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/13.jpg",
+        "location": "Old Montreal, Montreal, Canada",
+        "about": "Believer in good people and good conversations",
+        "interestedIn": "Everyone",
+        "lookingFor": "Casual dating",
+        "activities": [
+            "Cooking",
+            "Partying",
+            "Watching movies or series"
+        ],
+        "personality": [
+            "Funny and outgoing",
+            "Creative and artistic"
+        ],
+        "music": [
+            "Jazz",
+            "Classical",
+            "Pop"
+        ],
+        "firstDate": "Movie or concert night",
+        "spendTime": "Doing something adventurous"
+    },
+    {
+        "name": "Kathe DuNoyer",
+        "age": 25,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/14.jpg",
+        "location": "Beltline, Calgary, Canada",
+        "about": "Calm nature, warm smile, and thoughtful perspective",
+        "interestedIn": "Everyone",
+        "lookingFor": "Casual dating",
+        "activities": [
+            "Travelling",
+            "Partying",
+            "Reading books"
+        ],
+        "personality": [
+            "Caring and emotional",
+            "Ambitious and driven"
+        ],
+        "music": [
+            "Hip-Hop",
+            "EDM",
+            "Jazz"
+        ],
+        "firstDate": "Long walk or beach outing",
+        "spendTime": "Doing something adventurous"
+    },
+    {
+        "name": "Sally Motter",
+        "age": 26,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/15.jpg",
+        "location": "ByWard Market, Ottawa, Canada",
+        "about": "Netflix, long walks, and lots of laughter",
+        "interestedIn": "Women",
+        "lookingFor": "A serious relationship",
+        "activities": [
+            "Travelling",
+            "Partying",
+            "Working out"
+        ],
+        "personality": [
+            "Adventurous and spontaneous",
+            "Caring and emotional"
+        ],
+        "music": [
+            "Hip-Hop",
+            "Rock",
+            "Bollywood"
+        ],
+        "firstDate": "Long walk or beach outing",
+        "spendTime": "Relaxing at home"
+    },
+    {
+        "name": "Natasha Shtapauk",
+        "age": 24,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/16.jpg",
+        "location": "Exchange District, Winnipeg, Canada",
+        "about": "Ambitious, grounded, and always learning",
+        "interestedIn": "Everyone",
+        "lookingFor": "Just exploring",
+        "activities": [
+            "Watching movies or series",
+            "Exploring nature",
+            "Working out"
+        ],
+        "personality": [
+            "Funny and outgoing",
+            "Creative and artistic"
+        ],
+        "music": [
+            "Pop",
+            "EDM",
+            "Jazz"
+        ],
+        "firstDate": "Long walk or beach outing",
+        "spendTime": "Traveling together"
+    },
+    {
+        "name": "Danielle Harper",
+        "age": 28,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/17.jpg",
+        "location": "Strathcona, Edmonton, Canada",
+        "about": "Career-focused but always makes time for meaningful people",
+        "interestedIn": "Men",
+        "lookingFor": "Friendship",
+        "activities": [
+            "Cooking",
+            "Exploring nature",
+            "Watching movies or series"
+        ],
+        "personality": [
+            "Ambitious and driven",
+            "Calm and thoughtful"
+        ],
+        "music": [
+            "Bollywood",
+            "EDM",
+            "Classical"
+        ],
+        "firstDate": "Outdoor adventure",
+        "spendTime": "Relaxing at home"
+    },
+    {
+        "name": "Riley Thompson",
+        "age": 30,
+        "gender": "Prefer not to say",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/18.jpg",
+        "location": "North End, Halifax, Canada",
+        "about": "Sarcasm fluent, kindness guaranteed",
+        "interestedIn": "Women",
+        "lookingFor": "Friendship",
+        "activities": [
+            "Exploring nature",
+            "Watching movies or series",
+            "Working out"
+        ],
+        "personality": [
+            "Caring and emotional",
+            "Calm and thoughtful"
+        ],
+        "music": [
+            "Rock",
+            "Bollywood",
+            "Hip-Hop"
+        ],
+        "firstDate": "Dinner date",
+        "spendTime": "Cooking or eating out"
+    },
+    {
+        "name": "Kim Kantner",
+        "age": 29,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/19.jpg",
+        "location": "Old Quebec, Quebec City, Canada",
+        "about": "Enjoy traveling, photography, and new experiences",
+        "interestedIn": "Everyone",
+        "lookingFor": "Casual dating",
+        "activities": [
+            "Exploring nature",
+            "Reading books",
+            "Working out"
+        ],
+        "personality": [
+            "Calm and thoughtful",
+            "Caring and emotional"
+        ],
+        "music": [
+            "Bollywood",
+            "Jazz",
+            "Hip-Hop"
+        ],
+        "firstDate": "Coffee and good conversation",
+        "spendTime": "Doing something adventurous"
+    },
+    {
+        "name": "Carolina Pedraita",
+        "age": 22,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/20.jpg",
+        "location": "Inner Harbour, Victoria, Canada",
+        "about": "Searching for someone who values depth over perfection",
+        "interestedIn": "Everyone",
+        "lookingFor": "Casual dating",
+        "activities": [
+            "Reading books",
+            "Exploring nature",
+            "Watching movies or series"
+        ],
+        "personality": [
+            "Creative and artistic",
+            "Caring and emotional"
+        ],
+        "music": [
+            "Pop",
+            "Classical",
+            "Hip-Hop"
+        ],
+        "firstDate": "Long walk or beach outing",
+        "spendTime": "Doing something adventurous"
+    },
+    {
+        "name": "Joycelyn BeFit",
+        "age": 36,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/21.jpg",
+        "location": "Canary Wharf, London, UK",
+        "about": "Love meaningful connections, real energy, and honesty",
+        "interestedIn": "Women",
+        "lookingFor": "Just exploring",
+        "activities": [
+            "Working out",
+            "Cooking",
+            "Watching movies or series"
+        ],
+        "personality": [
+            "Caring and emotional",
+            "Creative and artistic"
+        ],
+        "music": [
+            "Classical",
+            "Rock",
+            "EDM"
+        ],
+        "firstDate": "Movie or concert night",
+        "spendTime": "Watching shows or movies"
+    },
+    {
+        "name": "Leah Horwitz",
+        "age": 32,
+        "gender": "Prefer not to say",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/22.jpg",
+        "location": "Northern Quarter, Manchester, UK",
+        "about": "Passionate about growth, peace, and good company",
+        "interestedIn": "Everyone",
+        "lookingFor": "Just exploring",
+        "activities": [
+            "Cooking",
+            "Working out",
+            "Travelling"
+        ],
+        "personality": [
+            "Adventurous and spontaneous",
+            "Funny and outgoing"
+        ],
+        "music": [
+            "Jazz",
+            "Rock",
+            "EDM"
+        ],
+        "firstDate": "Long walk or beach outing",
+        "spendTime": "Doing something adventurous"
+    },
+    {
+        "name": "Kelsey Sea",
+        "age": 31,
+        "gender": "Prefer not to say",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/23.jpg",
+        "location": "Jewellery Quarter, Birmingham, UK",
+        "about": "Enjoy quiet cafés, long conversations, and good stories",
+        "interestedIn": "Everyone",
+        "lookingFor": "Casual dating",
+        "activities": [
+            "Reading books",
+            "Cooking",
+            "Watching movies or series"
+        ],
+        "personality": [
+            "Adventurous and spontaneous",
+            "Ambitious and driven"
+        ],
+        "music": [
+            "EDM",
+            "Jazz",
+            "Bollywood"
+        ],
+        "firstDate": "Coffee and good conversation",
+        "spendTime": "Watching shows or movies"
+    },
+    {
+        "name": "Tia Real",
+        "age": 26,
+        "gender": "Prefer not to say",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/24.jpg",
+        "location": "Albert Dock, Liverpool, UK",
+        "about": "Driven by dreams, balanced by calm",
+        "interestedIn": "Everyone",
+        "lookingFor": "Casual dating",
+        "activities": [
+            "Watching movies or series",
+            "Working out",
+            "Travelling"
+        ],
+        "personality": [
+            "Adventurous and spontaneous",
+            "Caring and emotional"
+        ],
+        "music": [
+            "Classical",
+            "Rock",
+            "EDM"
+        ],
+        "firstDate": "Outdoor adventure",
+        "spendTime": "Doing something adventurous"
+    },
+    {
+        "name": "Jordana Lorraine",
+        "age": 29,
+        "gender": "Prefer not to say",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/25.jpg",
+        "location": "Old Town, Edinburgh, UK",
+        "about": "Enjoying life one simple moment at a time",
+        "interestedIn": "Everyone",
+        "lookingFor": "Just exploring",
+        "activities": [
+            "Working out",
+            "Watching movies or series",
+            "Cooking"
+        ],
+        "personality": [
+            "Caring and emotional",
+            "Ambitious and driven"
+        ],
+        "music": [
+            "Pop",
+            "Rock",
+            "Classical"
+        ],
+        "firstDate": "Dinner date",
+        "spendTime": "Cooking or eating out"
+    },
+    {
+        "name": "Violet Kleefisch",
+        "age": 38,
+        "gender": "Prefer not to say",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/26.jpg",
+        "location": "West End, Glasgow, UK",
+        "about": "Deep thinker who loves genuine people",
+        "interestedIn": "Men",
+        "lookingFor": "Just exploring",
+        "activities": [
+            "Travelling",
+            "Reading books",
+            "Exploring nature"
+        ],
+        "personality": [
+            "Adventurous and spontaneous",
+            "Funny and outgoing"
+        ],
+        "music": [
+            "Rock",
+            "Bollywood",
+            "Pop"
+        ],
+        "firstDate": "Long walk or beach outing",
+        "spendTime": "Cooking or eating out"
+    },
+    {
+        "name": "Mert Cengiz",
+        "age": 42,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/27.jpg",
+        "location": "Clifton, Bristol, UK",
+        "about": "Nature lover with a heart full of curiosity",
+        "interestedIn": "Men",
+        "lookingFor": "Just exploring",
+        "activities": [
+            "Working out",
+            "Exploring nature",
+            "Partying"
+        ],
+        "personality": [
+            "Ambitious and driven",
+            "Adventurous and spontaneous"
+        ],
+        "music": [
+            "Bollywood",
+            "Hip-Hop",
+            "Rock"
+        ],
+        "firstDate": "Movie or concert night",
+        "spendTime": "Traveling together"
+    },
+    {
+        "name": "Katy Anderson",
+        "age": 23,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/28.jpg",
+        "location": "City Centre, Leeds, UK",
+        "about": "Appreciate small gestures and thoughtful actions",
+        "interestedIn": "Everyone",
+        "lookingFor": "Friendship",
+        "activities": [
+            "Cooking",
+            "Working out",
+            "Watching movies or series"
+        ],
+        "personality": [
+            "Calm and thoughtful",
+            "Caring and emotional"
+        ],
+        "music": [
+            "Hip-Hop",
+            "Rock",
+            "Classical"
+        ],
+        "firstDate": "Dinner date",
+        "spendTime": "Relaxing at home"
+    },
+    {
+        "name": "Hannah Wagner",
+        "age": 27,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/29.jpg",
+        "location": "Quayside, Newcastle, UK",
+        "about": "Creative soul with a logical mind",
+        "interestedIn": "Everyone",
+        "lookingFor": "Friendship",
+        "activities": [
+            "Watching movies or series",
+            "Exploring nature",
+            "Partying"
+        ],
+        "personality": [
+            "Ambitious and driven",
+            "Adventurous and spontaneous"
+        ],
+        "music": [
+            "EDM",
+            "Bollywood",
+            "Hip-Hop"
+        ],
+        "firstDate": "Long walk or beach outing",
+        "spendTime": "Doing something adventurous"
+    },
+    {
+        "name": "Andrea Baltman",
+        "age": 26,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/30.jpg",
+        "location": "Bay Area, Cardiff, UK",
+        "about": "Always ready for new memories and new adventures",
+        "interestedIn": "Everyone",
+        "lookingFor": "A serious relationship",
+        "activities": [
+            "Working out",
+            "Reading books",
+            "Travelling"
+        ],
+        "personality": [
+            "Ambitious and driven",
+            "Creative and artistic"
+        ],
+        "music": [
+            "Hip-Hop",
+            "EDM",
+            "Bollywood"
+        ],
+        "firstDate": "Outdoor adventure",
+        "spendTime": "Watching shows or movies"
+    },
+    {
+        "name": "Amie Cole Miner",
+        "age": 25,
+        "gender": "Prefer not to say",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/31.jpg",
+        "location": "Montmartre, Paris, France",
+        "about": "Homebody with a love for cozy nights",
+        "interestedIn": "Everyone",
+        "lookingFor": "Casual dating",
+        "activities": [
+            "Partying",
+            "Exploring nature",
+            "Reading books"
+        ],
+        "personality": [
+            "Adventurous and spontaneous",
+            "Ambitious and driven"
+        ],
+        "music": [
+            "Classical",
+            "Jazz",
+            "EDM"
+        ],
+        "firstDate": "Long walk or beach outing",
+        "spendTime": "Cooking or eating out"
+    },
+    {
+        "name": "Julia Langheld",
+        "age": 25,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/32.jpg",
+        "location": "Le Panier, Marseille, France",
+        "about": "Believe in effort, respect, and consistency",
+        "interestedIn": "Women",
+        "lookingFor": "Casual dating",
+        "activities": [
+            "Watching movies or series",
+            "Working out",
+            "Exploring nature"
+        ],
+        "personality": [
+            "Adventurous and spontaneous",
+            "Creative and artistic"
+        ],
+        "music": [
+            "Hip-Hop",
+            "Rock",
+            "Classical"
+        ],
+        "firstDate": "Movie or concert night",
+        "spendTime": "Doing something adventurous"
+    },
+    {
+        "name": "Christine Duell",
+        "age": 22,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/33.jpg",
+        "location": "Vieux Lyon, Lyon, France",
+        "about": "Music keeps me alive, conversations keep me inspired",
+        "interestedIn": "Women",
+        "lookingFor": "A serious relationship",
+        "activities": [
+            "Reading books",
+            "Working out",
+            "Travelling"
+        ],
+        "personality": [
+            "Calm and thoughtful",
+            "Adventurous and spontaneous"
+        ],
+        "music": [
+            "Classical",
+            "Pop",
+            "Jazz"
+        ],
+        "firstDate": "Dinner date",
+        "spendTime": "Traveling together"
+    },
+    {
+        "name": "Emily Costner",
+        "age": 37,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/34.jpg",
+        "location": "Old Town, Nice, France",
+        "about": "Value honesty, peace, and emotional intelligence",
+        "interestedIn": "Men",
+        "lookingFor": "Friendship",
+        "activities": [
+            "Working out",
+            "Partying",
+            "Reading books"
+        ],
+        "personality": [
+            "Funny and outgoing",
+            "Adventurous and spontaneous"
+        ],
+        "music": [
+            "EDM",
+            "Jazz",
+            "Pop"
+        ],
+        "firstDate": "Outdoor adventure",
+        "spendTime": "Cooking or eating out"
+    },
+    {
+        "name": "Jenny Gremlin",
+        "age": 33,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/35.jpg",
+        "location": "Capitole, Toulouse, France",
+        "about": "Dreamer with goals, realist with plans",
+        "interestedIn": "Men",
+        "lookingFor": "Just exploring",
+        "activities": [
+            "Partying",
+            "Cooking",
+            "Watching movies or series"
+        ],
+        "personality": [
+            "Caring and emotional",
+            "Calm and thoughtful"
+        ],
+        "music": [
+            "Bollywood",
+            "EDM",
+            "Classical"
+        ],
+        "firstDate": "Outdoor adventure",
+        "spendTime": "Cooking or eating out"
+    },
+    {
+        "name": "Lauren Jeworski",
+        "age": 25,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/36.jpg",
+        "location": "Chartrons, Bordeaux, France",
+        "about": "Loyal, grounded, and emotionally aware",
+        "interestedIn": "Men",
+        "lookingFor": "Just exploring",
+        "activities": [
+            "Exploring nature",
+            "Cooking",
+            "Working out"
+        ],
+        "personality": [
+            "Ambitious and driven",
+            "Caring and emotional"
+        ],
+        "music": [
+            "EDM",
+            "Rock",
+            "Bollywood"
+        ],
+        "firstDate": "Dinner date",
+        "spendTime": "Cooking or eating out"
+    },
+    {
+        "name": "Laura Hepsworth",
+        "age": 31,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/37.jpg",
+        "location": "Vieux Lille, Lille, France",
+        "about": "Big on kindness and clear communication",
+        "interestedIn": "Everyone",
+        "lookingFor": "A serious relationship",
+        "activities": [
+            "Watching movies or series",
+            "Travelling",
+            "Working out"
+        ],
+        "personality": [
+            "Funny and outgoing",
+            "Caring and emotional"
+        ],
+        "music": [
+            "Jazz",
+            "EDM",
+            "Hip-Hop"
+        ],
+        "firstDate": "Movie or concert night",
+        "spendTime": "Doing something adventurous"
+    },
+    {
+        "name": "Alexis Monroe",
+        "age": 28,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/38.jpg",
+        "location": "Petite France, Strasbourg, France",
+        "about": "Here for mature conversations and real connections",
+        "interestedIn": "Women",
+        "lookingFor": "Friendship",
+        "activities": [
+            "Travelling",
+            "Exploring nature",
+            "Watching movies or series"
+        ],
+        "personality": [
+            "Ambitious and driven",
+            "Calm and thoughtful"
+        ],
+        "music": [
+            "Bollywood",
+            "Hip-Hop",
+            "EDM"
+        ],
+        "firstDate": "Coffee and good conversation",
+        "spendTime": "Traveling together"
+    },
+    {
+        "name": "Sheri Marouf",
+        "age": 24,
+        "gender": "Prefer not to say",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/39.jpg",
+        "location": "Antigone, Montpellier, France",
+        "about": "Love exploring cities and discovering hidden cafés",
+        "interestedIn": "Everyone",
+        "lookingFor": "Friendship",
+        "activities": [
+            "Reading books",
+            "Partying",
+            "Working out"
+        ],
+        "personality": [
+            "Funny and outgoing",
+            "Ambitious and driven"
+        ],
+        "music": [
+            "Bollywood",
+            "Jazz",
+            "Rock"
+        ],
+        "firstDate": "Outdoor adventure",
+        "spendTime": "Traveling together"
+    },
+    {
+        "name": "Paulina Winters",
+        "age": 24,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/40.jpg",
+        "location": "Île de Nantes, Nantes, France",
+        "about": "Work hard, relax harder",
+        "interestedIn": "Everyone",
+        "lookingFor": "A serious relationship",
+        "activities": [
+            "Partying",
+            "Working out",
+            "Travelling"
+        ],
+        "personality": [
+            "Creative and artistic",
+            "Ambitious and driven"
+        ],
+        "music": [
+            "Bollywood",
+            "Classical",
+            "Jazz"
+        ],
+        "firstDate": "Dinner date",
+        "spendTime": "Cooking or eating out"
+    },
+    {
+        "name": "Nina Newsham",
+        "age": 25,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/41.jpg",
+        "location": "Buckhead, Atlanta, USA",
+        "about": "Looking for someone who matches my energy",
+        "interestedIn": "Women",
+        "lookingFor": "Friendship",
+        "activities": [
+            "Exploring nature",
+            "Travelling",
+            "Watching movies or series"
+        ],
+        "personality": [
+            "Funny and outgoing",
+            "Ambitious and driven"
+        ],
+        "music": [
+            "Rock",
+            "Pop",
+            "Jazz"
+        ],
+        "firstDate": "Dinner date",
+        "spendTime": "Cooking or eating out"
+    },
+    {
+        "name": "Fallon Jethroe",
+        "age": 29,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/42.jpg",
+        "location": "LoDo, Denver, USA",
+        "about": "Calm personality with a passionate mind",
+        "interestedIn": "Men",
+        "lookingFor": "A serious relationship",
+        "activities": [
+            "Travelling",
+            "Partying",
+            "Working out"
+        ],
+        "personality": [
+            "Adventurous and spontaneous",
+            "Funny and outgoing"
+        ],
+        "music": [
+            "Hip-Hop",
+            "Bollywood",
+            "Rock"
+        ],
+        "firstDate": "Coffee and good conversation",
+        "spendTime": "Traveling together"
+    },
+    {
+        "name": "Rakeda LaShae",
+        "age": 26,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/43.jpg",
+        "location": "Georgetown, Washington, USA",
+        "about": "Love learning new things and meeting new people",
+        "interestedIn": "Men",
+        "lookingFor": "A serious relationship",
+        "activities": [
+            "Working out",
+            "Exploring nature",
+            "Cooking"
+        ],
+        "personality": [
+            "Adventurous and spontaneous",
+            "Creative and artistic"
+        ],
+        "music": [
+            "Classical",
+            "Pop",
+            "Bollywood"
+        ],
+        "firstDate": "Long walk or beach outing",
+        "spendTime": "Doing something adventurous"
+    },
+    {
+        "name": "Lena Fairchild",
+        "age": 28,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/44.jpg",
+        "location": "Center City, Philadelphia, USA",
+        "about": "Genuine, simple, and a little mysterious",
+        "interestedIn": "Men",
+        "lookingFor": "Casual dating",
+        "activities": [
+            "Watching movies or series",
+            "Working out",
+            "Partying"
+        ],
+        "personality": [
+            "Funny and outgoing",
+            "Creative and artistic"
+        ],
+        "music": [
+            "Hip-Hop",
+            "Rock",
+            "Bollywood"
+        ],
+        "firstDate": "Long walk or beach outing",
+        "spendTime": "Traveling together"
+    },
+    {
+        "name": "Allie Abbot",
+        "age": 21,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/45.jpg",
+        "location": "Gaslamp Quarter, San Diego, USA",
+        "about": "Smiles easily, loves pets and outdoor adventures.",
+        "interestedIn": "Everyone",
+        "lookingFor": "Casual dating",
+        "activities": [
+            "Cooking",
+            "Working out",
+            "Watching movies or series"
+        ],
+        "personality": [
+            "Ambitious and driven",
+            "Calm and thoughtful"
+        ],
+        "music": [
+            "Jazz",
+            "Rock",
+            "Hip-Hop"
+        ],
+        "firstDate": "Coffee and good conversation",
+        "spendTime": "Doing something adventurous"
+    },
+    {
+        "name": "Cassidy Coyote",
+        "age": 30,
+        "gender": "Prefer not to say",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/46.jpg",
+        "location": "Downtown, Phoenix, USA",
+        "about": "Creative, curious, and always hunting for good tacos.",
+        "interestedIn": "Everyone",
+        "lookingFor": "Friendship",
+        "activities": [
+            "Exploring nature",
+            "Cooking",
+            "Travelling"
+        ],
+        "personality": [
+            "Caring and emotional",
+            "Calm and thoughtful"
+        ],
+        "music": [
+            "Classical",
+            "Rock",
+            "Bollywood"
+        ],
+        "firstDate": "Dinner date",
+        "spendTime": "Cooking or eating out"
+    },
+    {
+        "name": "Yasmine Helena",
+        "age": 30,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/47.jpg",
+        "location": "Pearl District, Portland, USA",
+        "about": "Calm mind, adventurous heart. Meditation lover.",
+        "interestedIn": "Men",
+        "lookingFor": "Casual dating",
+        "activities": [
+            "Partying",
+            "Watching movies or series",
+            "Reading books"
+        ],
+        "personality": [
+            "Calm and thoughtful",
+            "Creative and artistic"
+        ],
+        "music": [
+            "Classical",
+            "Hip-Hop",
+            "Jazz"
+        ],
+        "firstDate": "Movie or concert night",
+        "spendTime": "Traveling together"
+    },
+    {
+        "name": "Dajana Rivera",
+        "age": 37,
+        "gender": "Prefer not to say",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/48.jpg",
+        "location": "Midtown, Detroit, USA",
+        "about": "Loves fashion, beauty, and everything aesthetic.",
+        "interestedIn": "Men",
+        "lookingFor": "A serious relationship",
+        "activities": [
+            "Working out",
+            "Watching movies or series",
+            "Travelling"
+        ],
+        "personality": [
+            "Funny and outgoing",
+            "Calm and thoughtful"
+        ],
+        "music": [
+            "Rock",
+            "Bollywood",
+            "Jazz"
+        ],
+        "firstDate": "Movie or concert night",
+        "spendTime": "Cooking or eating out"
+    },
+    {
+        "name": "Jen White",
+        "age": 42,
+        "gender": "Prefer not to say",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/49.jpg",
+        "location": "Uptown, Charlotte, USA",
+        "about": "Tech girl with a love for gaming and coffee.",
+        "interestedIn": "Everyone",
+        "lookingFor": "Casual dating",
+        "activities": [
+            "Reading books",
+            "Working out",
+            "Exploring nature"
+        ],
+        "personality": [
+            "Funny and outgoing",
+            "Caring and emotional"
+        ],
+        "music": [
+            "Pop",
+            "Classical",
+            "Hip-Hop"
+        ],
+        "firstDate": "Long walk or beach outing",
+        "spendTime": "Relaxing at home"
+    },
+    {
+        "name": "Megan Proctor",
+        "age": 27,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/50.jpg",
+        "location": "Uptown, Minneapolis, USA",
+        "about": "Food lover who appreciates good company",
+        "interestedIn": "Men",
+        "lookingFor": "Just exploring",
+        "activities": [
+            "Reading books",
+            "Watching movies or series",
+            "Cooking"
+        ],
+        "personality": [
+            "Caring and emotional",
+            "Ambitious and driven"
+        ],
+        "music": [
+            "EDM",
+            "Jazz",
+            "Bollywood"
+        ],
+        "firstDate": "Dinner date",
+        "spendTime": "Watching shows or movies"
+    },
+    {
+        "name": "Barbara Raffaldini",
+        "age": 28,
+        "gender": "Prefer not to say",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/51.jpg",
+        "location": "Stoney Creek, Hamilton, Canada",
+        "about": "Living life with purpose and gratitude",
+        "interestedIn": "Men",
+        "lookingFor": "Just exploring",
+        "activities": [
+            "Working out",
+            "Watching movies or series",
+            "Exploring nature"
+        ],
+        "personality": [
+            "Adventurous and spontaneous",
+            "Caring and emotional"
+        ],
+        "music": [
+            "Rock",
+            "Pop",
+            "Bollywood"
+        ],
+        "firstDate": "Movie or concert night",
+        "spendTime": "Doing something adventurous"
+    },
+    {
+        "name": "Amanda Elliot",
+        "age": 24,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/52.jpg",
+        "location": "Port Credit, Mississauga, Canada",
+        "about": "Ambitious, career-focused, and still fun",
+        "interestedIn": "Men",
+        "lookingFor": "Friendship",
+        "activities": [
+            "Partying",
+            "Working out",
+            "Travelling"
+        ],
+        "personality": [
+            "Funny and outgoing",
+            "Caring and emotional"
+        ],
+        "music": [
+            "Pop",
+            "Classical",
+            "Bollywood"
+        ],
+        "firstDate": "Coffee and good conversation",
+        "spendTime": "Doing something adventurous"
+    },
+    {
+        "name": "Ava Newton",
+        "age": 23,
+        "gender": "Prefer not to say",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/53.jpg",
+        "location": "Soho, London, UK",
+        "about": "Easy-going girl who loves beaches and dogs",
+        "interestedIn": "Men",
+        "lookingFor": "Friendship",
+        "activities": [
+            "Watching movies or series",
+            "Working out",
+            "Travelling"
+        ],
+        "personality": [
+            "Funny and outgoing",
+            "Caring and emotional"
+        ],
+        "music": [
+            "Pop",
+            "Jazz",
+            "Hip-Hop"
+        ],
+        "firstDate": "Outdoor adventure",
+        "spendTime": "Cooking or eating out"
+    },
+    {
+        "name": "Jeni Romano",
+        "age": 26,
+        "gender": "Prefer not to say",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/54.jpg",
+        "location": "Kelham Island, Sheffield, UK",
+        "about": "Bookworm and nature enthusiast who loves cozy nights in",
+        "interestedIn": "Everyone",
+        "lookingFor": "Just exploring",
+        "activities": [
+            "Reading books",
+            "Exploring nature",
+            "Watching movies or series"
+        ],
+        "personality": [
+            "Adventurous and spontaneous",
+            "Caring and emotional"
+        ],
+        "music": [
+            "Pop",
+            "Classical",
+            "Hip-Hop"
+        ],
+        "firstDate": "Outdoor adventure",
+        "spendTime": "Relaxing at home"
+    },
+    {
+        "name": "Mila Heman",
+        "age": 24,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/55.jpg",
+        "location": "Lace Market, Nottingham, UK",
+        "about": "Artistic soul with a love for music and painting",
+        "interestedIn": "Women",
+        "lookingFor": "Just exploring",
+        "activities": [
+            "Cooking",
+            "Working out",
+            "Travelling"
+        ],
+        "personality": [
+            "Ambitious and driven",
+            "Creative and artistic"
+        ],
+        "music": [
+            "Rock",
+            "Pop",
+            "EDM"
+        ],
+        "firstDate": "Movie or concert night",
+        "spendTime": "Traveling together"
+    },
+    {
+        "name": "Han Wei Ling",
+        "age": 23,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/56.jpg",
+        "location": "City Centre, Leicester, UK",
+        "about": "Minimalist, soft-spoken, and deeply thoughtful",
+        "interestedIn": "Women",
+        "lookingFor": "A serious relationship",
+        "activities": [
+            "Travelling",
+            "Cooking",
+            "Watching movies or series"
+        ],
+        "personality": [
+            "Funny and outgoing",
+            "Calm and thoughtful"
+        ],
+        "music": [
+            "Classical",
+            "Hip-Hop",
+            "Jazz"
+        ],
+        "firstDate": "Movie or concert night",
+        "spendTime": "Traveling together"
+    },
+    {
+        "name": "Susie Benson",
+        "age": 25,
+        "gender": "Prefer not to say",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/57.jpg",
+        "location": "Thabor, Rennes, France",
+        "about": "Obsessed with personal growth and good energy",
+        "interestedIn": "Everyone",
+        "lookingFor": "A serious relationship",
+        "activities": [
+            "Travelling",
+            "Watching movies or series",
+            "Reading books"
+        ],
+        "personality": [
+            "Caring and emotional",
+            "Funny and outgoing"
+        ],
+        "music": [
+            "Pop",
+            "Jazz",
+            "Hip-Hop"
+        ],
+        "firstDate": "Long walk or beach outing",
+        "spendTime": "Traveling together"
+    },
+    {
+        "name": "Tara Onset",
+        "age": 26,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/58.jpg",
+        "location": "Championnet, Grenoble, France",
+        "about": "Loyal heart, curious mind, and clear intentions",
+        "interestedIn": "Everyone",
+        "lookingFor": "Casual dating",
+        "activities": [
+            "Travelling",
+            "Working out",
+            "Exploring nature"
+        ],
+        "personality": [
+            "Creative and artistic",
+            "Caring and emotional"
+        ],
+        "music": [
+            "Classical",
+            "Rock",
+            "Pop"
+        ],
+        "firstDate": "Outdoor adventure",
+        "spendTime": "Cooking or eating out"
+    },
+    {
+        "name": "Rayne Buzzell",
+        "age": 24,
+        "gender": "Prefer not to say",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/59.jpg",
+        "location": "La Croisette, Cannes, France",
+        "about": "Believe in chemistry, honesty, and mutual respect",
+        "interestedIn": "Women",
+        "lookingFor": "Casual dating",
+        "activities": [
+            "Working out",
+            "Reading books",
+            "Partying"
+        ],
+        "personality": [
+            "Adventurous and spontaneous",
+            "Creative and artistic"
+        ],
+        "music": [
+            "Jazz",
+            "Pop",
+            "Classical"
+        ],
+        "firstDate": "Long walk or beach outing",
+        "spendTime": "Cooking or eating out"
+    },
+    {
+        "name": "Jamie Stetson",
+        "age": 25,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/60.jpg",
+        "location": "London, UK",
+        "about": "Always ready for long drives and long talks",
+        "interestedIn": "Men",
+        "lookingFor": "Casual dating",
+        "activities": [
+            "Exploring nature",
+            "Partying",
+            "Travelling"
+        ],
+        "personality": [
+            "Ambitious and driven",
+            "Adventurous and spontaneous"
+        ],
+        "music": [
+            "EDM",
+            "Bollywood",
+            "Jazz"
+        ],
+        "firstDate": "Long walk or beach outing",
+        "spendTime": "Relaxing at home"
+    },
+    {
+        "name": "Amira Bella",
+        "age": 30,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/61.jpg",
+        "location": "Centre Ville, Dijon, France",
+        "about": "Focused on building a meaningful life",
+        "interestedIn": "Everyone",
+        "lookingFor": "Casual dating",
+        "activities": [
+            "Watching movies or series",
+            "Travelling",
+            "Cooking"
+        ],
+        "personality": [
+            "Ambitious and driven",
+            "Calm and thoughtful"
+        ],
+        "music": [
+            "Jazz",
+            "Rock",
+            "Hip-Hop"
+        ],
+        "firstDate": "Dinner date",
+        "spendTime": "Traveling together"
+    }
 ]
