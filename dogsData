@@ -115,7 +115,7 @@
         "gender": "Female",
         "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/Issy+3.png",
         "location": "Uptown, Dallas, USA",
-        "about": ""Serious on the outside, marshmallow on the inside. Seeking a partner to guard snacks with."",
+        "about": "Serious on the outside, marshmallow on the inside. Seeking a partner to guard snacks with.",
         "interestedIn": "Men",
         "lookingFor": "Friendship",
         "activities": [
@@ -542,5 +542,5 @@
         ],
         "firstDate": "Long walk or beach outing",
         "spendTime": "Doing something adventurous"
-    },
+    }
 ]
