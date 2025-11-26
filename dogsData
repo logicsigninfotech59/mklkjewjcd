@@ -466,7 +466,7 @@
         "name": "Riley Thompson",
         "age":2,
         "gender": "Prefer not to say",
-        "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/shiloh-shepherd-puppy-lying-on-the-ground_Kristina-Osborne_Shutterstock.jpg",
+        "image":"https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/shiloh-shepherd-puppy-lying-on-the-ground_Kristina-Osborne_Shutterstock.jpg",
         "location": "North End, Halifax, Canada",
         "about": "Energetic and fun-loving. Enjoys running, playing fetch, and making everyone laugh.",
         "interestedIn": "Women",
