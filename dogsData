@@ -57,7 +57,7 @@
     },
     {
         "name": "Brissa Castaneda",
-        "age": 1.2,
+        "age": 2,
         "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/Czechoslovakian_Wolfdog_2.jpg",
         "location": "Downtown, Chicago, USA",
         "about": "Serious on the outside, marshmallow on the inside. Seeking a partner to guard snacks with.",
@@ -84,7 +84,7 @@
     },
     {
         "name": "Olivia Hart",
-        "age": 0.8,
+        "age": 1,
         "gender": "Female",
         "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/GettyImages-1603392252-1-e1695302081173.png",
         "location": "Midtown, Houston, USA",
@@ -111,7 +111,7 @@
     },
     {
         "name": "Tara Collins",
-        "age": 0.4,
+        "age": 2,
         "gender": "Female",
         "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/Issy+3.png",
         "location": "Uptown, Dallas, USA",
@@ -139,7 +139,7 @@
     },
     {
         "name": "Anjali Kapadia",
-        "age": 0.2,
+        "age": 3,
         "gender": "Female",
         "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/King-Shepherd-1-780x520.jpg",
         "location": "Capitol Hill, Seattle, USA",
@@ -193,7 +193,7 @@
     },
     {
         "name": "Ana Teracine",
-        "age": 2.7,
+        "age": 2,
         "gender": "Female",
         "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/The-Shiloh-Shepherd-An-In-Depth-Examination-of-the-Breed-1.jpg",
         "location": "Back Bay, Boston, USA",
@@ -221,7 +221,7 @@
     },
     {
         "name": "Caroline Cameron Brooks",
-        "age": 3.6,
+        "age": 1,
         "gender": "Prefer not to say",
         "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/Untitled_design_43_43dfd07f6d.png",
         "location": "Summerlin, Las Vegas, USA",
@@ -248,7 +248,7 @@
     },
     {
         "name": "Alina Vivero",
-        "age": 1.9,
+        "age": 3,
         "gender": "Female",
         "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/bohemian-shepherd-dog-and-puppy_Zuzule_Shutterstock.jpg",
         "location": "Wynwood, Miami, USA",
@@ -275,7 +275,7 @@
     },
     {
         "name": "Maria Fernanda Vega",
-        "age": 0.9,
+        "age": 5,
         "gender": "Female",
         "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/ceskoslovensky_vlcak__czechoslovakian_wolfdog.png",
         "location": "Downtown, Toronto, Canada",
@@ -302,7 +302,7 @@
     },
     {
         "name": "Sandy Toupenet",
-        "age": 1.2,
+        "age": 1,
         "gender": "Female",
         "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/czechoslovakian-wolfdog-at-sea.png",
         "location": "Gastown, Vancouver, Canada",
@@ -329,7 +329,7 @@
     },
     {
         "name": "Michelle Carter",
-        "age": 0.5,
+        "age": 2,
         "gender": "Female",
         "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/czechoslovakian_wolfdog_in_nature.png",
         "location": "Old Montreal, Montreal, Canada",
@@ -356,7 +356,7 @@
     },
     {
         "name": "Kathe DuNoyer",
-        "age": 25,
+        "age": 3,
         "gender": "Female",
         "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/dog-png-30.png",
         "location": "Beltline, Calgary, Canada",
@@ -383,7 +383,7 @@
     },
     {
         "name": "Sally Motter",
-        "age": 0.7,
+        "age": 4,
         "gender": "Female",
         "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/gerrie-van-der-walt-qxkwMt40d40-unsplash-1179x800.png",
         "location": "ByWard Market, Ottawa, Canada",
@@ -410,7 +410,7 @@
     },
     {
         "name": "Natasha Shtapauk",
-        "age": 1.9,
+        "age": 1,
         "gender": "Female",
         "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/istockphoto-2074118235-612x612.jpg",
         "location": "Exchange District, Winnipeg, Canada",
@@ -437,7 +437,7 @@
     },
     {
         "name": "Danielle Harper",
-        "age": 2.1,
+        "age": 4,
         "gender": "Female",
         "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/learning-about-the-shiloh-shepherd-dog-561b7352bd286.png",
         "location": "Strathcona, Edmonton, Canada",
@@ -464,7 +464,7 @@
     },
     {
         "name": "Riley Thompson",
-        "age": 4,
+        "age":2,
         "gender": "Prefer not to say",
         "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/shiloh-shepherd-puppy-lying-on-the-ground_Kristina-Osborne_Shutterstock.jpg",
         "location": "North End, Halifax, Canada",
@@ -491,7 +491,7 @@
     },
     {
         "name": "Kim Kantner",
-        "age": 2,
+        "age": 3,
         "gender": "Female",
         "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/tervuren-dog-crate-size_large.png",
         "location": "Old Quebec, Quebec City, Canada",
@@ -518,7 +518,7 @@
     },
     {
         "name": "Carolina Pedraita",
-        "age": 3.4,
+        "age": 5,
         "gender": "Female",
         "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/violet2.jpg",
         "location": "Inner Harbour, Victoria, Canada",
