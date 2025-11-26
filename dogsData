@@ -1,1 +1,546 @@
 
+[
+    {
+        "name": "Julia Beyer",
+        "age": 2,
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/11-dogs-like-german-shepherd.png",
+        "location": "Manhattan, New York, USA",
+        "about": "Small nose, big heart. Loves sniffing mysteries and cuddling after a long day of detective work.",
+        "gender": "Female",
+        "interestedIn": "Women",
+        "lookingFor": "A serious relationship",
+        "activities": [
+            "Speed-sniffing every interesting smell within a 5-mile radius",
+            "Judging ducks at the local park",
+            "Training her humans to give treats on command."
+        ],
+        "personality": [
+            "cuddle-powered love machine with unlimited snuggles",
+            "flirty tail-wagger who falls in love instantly",
+            "thinks the world is full of mysteries… and most of them smell delicious."
+        ],
+        "music": [
+            "Bollywood",
+            "EDM",
+            "Hip-Hop"
+        ],
+        "firstDate": "Movie or concert night",
+        "spendTime": "Watching shows or movies"
+    },
+    {
+        "name": "Rebecca Summers",
+        "age": 3,
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/1a00ca34b53121e7564cb5679ac4e909.jpg",
+        "location": "Hollywood, Los Angeles, USA",
+        "about": "Talkative queen. Will sing you the song of her people every morning. Swipe right if you like drama.",
+        "gender": "Female",
+        "interestedIn": "Men",
+        "lookingFor": "Casual dating",
+        "activities": [
+            "Splashing in water like a tiny furry lifeguard.",
+            "Guarding the house from suspicious squirrels.",
+            "Making new friends at the park."
+        ],
+        "personality": [
+            "200% excitement — zoomies included.",
+            "best side-eye and the best hugs.",
+            "mischievous sweetheart — equal parts chaos and charm.",
+            "brave protector with a soft, marshmallow center."
+        ],
+        "music": [
+            "Pop",
+            "Bollywood",
+            "Hip-Hop"
+        ],
+        "firstDate": "Dinner date",
+        "spendTime": "Watching shows or movies"
+    },
+    {
+        "name": "Brissa Castaneda",
+        "age": 1.2,
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/Czechoslovakian_Wolfdog_2.jpg",
+        "location": "Downtown, Chicago, USA",
+        "about": "Serious on the outside, marshmallow on the inside. Seeking a partner to guard snacks with.",
+        "gender": "Female",
+        "interestedIn": "Men",
+        "lookingFor": "Just exploring",
+        "activities": [
+            "Always smiling, always fetching. Looking for someone who enjoys long walks and longer belly rubs",
+            "Cuddling between bursts of zoomies.",
+            "Guarding the house from suspicious squirrels."
+        ],
+        "personality": [
+            "picky gourmet who only approves of the finest crumbs.",
+            "enjoys sunbeams, soft blankets, and soft hearts.",
+            "dreamer who stares out windows like a poetic soul."
+        ],
+        "music": [
+            "Classical",
+            "EDM",
+            "Rock"
+        ],
+        "firstDate": "Coffee and good conversation",
+        "spendTime": "Watching shows or movies"
+    },
+    {
+        "name": "Olivia Hart",
+        "age": 0.8,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/GettyImages-1603392252-1-e1695302081173.png",
+        "location": "Midtown, Houston, USA",
+        "about": "Small nose, big heart. Loves sniffing mysteries and cuddling after a long day of detective work",
+        "interestedIn": "Everyone",
+        "lookingFor": "A serious relationship",
+        "activities": [
+            "Judging ducks at the local park.",
+            "Splashing in any puddle that looks at her funny.",
+            "Making new friends at the park."
+        ],
+        "personality": [
+            "looking for a partner in crime for adventures and naps.",
+            "confidence of a dog twice their size and the charm to match",
+            "lives for treats, naps, and dramatic sighs."
+        ],
+        "music": [
+            "EDM",
+            "Classical",
+            "Jazz"
+        ],
+        "firstDate": "Outdoor adventure",
+        "spendTime": "Watching shows or movies"
+    },
+    {
+        "name": "Tara Collins",
+        "age": 0.4,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/Issy+3.png",
+        "location": "Uptown, Dallas, USA",
+        "about": ""Serious on the outside, marshmallow on the inside. Seeking a partner to guard snacks with."",
+        "interestedIn": "Men",
+        "lookingFor": "Friendship",
+        "activities": [
+            "Guarding the house from suspicious squirrels.",
+            "Sniffing every blade of grass individually.",
+            "Rolling in suspiciously smelly things."
+        ],
+        "personality": [
+            "confidence of a dog twice their size and the charm to match.",
+            "believes fetch is optional but affection is mandatory.",
+            "gives hugs like a pro — paws around your heart.",
+            "brave protector with a soft, marshmallow center"
+        ],
+        "music": [
+            "Classical",
+            "Jazz",
+            "Rock"
+        ],
+        "firstDate": "Coffee and good conversation",
+        "spendTime": "Cooking or eating out"
+    },
+    {
+        "name": "Anjali Kapadia",
+        "age": 0.2,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/King-Shepherd-1-780x520.jpg",
+        "location": "Capitol Hill, Seattle, USA",
+        "about": "Talkative and adventurous. Will howl along with you on starlit nights and loves snow-filled adventures.",
+        "interestedIn": "Women",
+        "lookingFor": "A serious relationship",
+        "activities": [
+            "Practicing professional-level begging.",
+            "Wiggling their whole body when they see their favorite humans",
+            "Falling in love with every child they meet."
+        ],
+        "personality": [
+            "fearless explorer of backyards, forests, and picnic baskets.",
+            "cuddle-powered love machine with unlimited snuggles.",
+            "adventure-ready and snack-motivated."
+        ],
+        "music": [
+            "Classical",
+            "Bollywood",
+            "Pop"
+        ],
+        "firstDate": "Outdoor adventure",
+        "spendTime": "Relaxing at home"
+    },
+    {
+        "name": "Nichole Cooper",
+        "age": 4,
+        "gender": "Male",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/Shiloh_Shepherd_Dog_Outdoors.jpg",
+        "location": "Mission District, San Francisco, USA",
+        "about": "Tiny bundle of joy. Loves attention, fluffiness, and showing off his big personality",
+        "interestedIn": "Women",
+        "lookingFor": "A serious relationship",
+        "activities": [
+            "Sniffing everything on walks like it's a crime scene.",
+            "Falling in love with every child they meet.",
+            "Getting the zoomies after baths as revenge."
+        ],
+        "personality": [
+            "at 200% excitement — zoomies included",
+            "sunshine puppy who believes life is better with head scratches.",
+            "picky gourmet who only approves of the finest crumbs."
+        ],
+        "music": [
+            "EDM",
+            "Jazz",
+            "Bollywood"
+        ],
+        "firstDate": "Dinner date",
+        "spendTime": "Relaxing at home"
+    },
+    {
+        "name": "Ana Teracine",
+        "age": 2.7,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/The-Shiloh-Shepherd-An-In-Depth-Examination-of-the-Breed-1.jpg",
+        "location": "Back Bay, Boston, USA",
+        "about": "Soft and gentle. Enjoys quiet cuddles and showing off her beautiful white coat.",
+        "interestedIn": "Men",
+        "lookingFor": "Casual dating",
+        "activities": [
+            "Blocking doorways for attention tolls.",
+            "Sitting politely then forgetting manners instantly.",
+            "Being offended by vacuum cleaners."
+        ],
+        "personality": [
+            "professional treat tester with zero regrets.",
+            "loves the spotlight and will happily model for any camera.",
+            "curious nose-on-legs who must investigate EVERYTHING.",
+            "steal your socks, your snacks, and probably your heart."
+        ],
+        "music": [
+            "Jazz",
+            "Hip-Hop",
+            "Rock"
+        ],
+        "firstDate": "Outdoor adventure",
+        "spendTime": "Traveling together"
+    },
+    {
+        "name": "Caroline Cameron Brooks",
+        "age": 3.6,
+        "gender": "Prefer not to say",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/Untitled_design_43_43dfd07f6d.png",
+        "location": "Summerlin, Las Vegas, USA",
+        "about": "Friendly and loving. Enjoys swimming, walks, and giving endless tail wags.",
+        "interestedIn": "Women",
+        "lookingFor": "A serious relationship",
+        "activities": [
+            "Sniffing other dogs’ butts with total confidence.",
+            "Blocking doorways for attention tolls.",
+            "Bringing sticks as friendship gifts."
+        ],
+        "personality": [
+            "looking for a partner in crime for adventures and naps.",
+            "thinks life is an endless chew toy and loves every minute.",
+            "looking for a partner in crime for adventures and naps."
+        ],
+        "music": [
+            "Classical",
+            "Bollywood",
+            "EDM"
+        ],
+        "firstDate": "Movie or concert night",
+        "spendTime": "Relaxing at home"
+    },
+    {
+        "name": "Alina Vivero",
+        "age": 1.9,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/bohemian-shepherd-dog-and-puppy_Zuzule_Shutterstock.jpg",
+        "location": "Wynwood, Miami, USA",
+        "about": "Loyal and confident. Loves training, protecting loved ones, and playful wrestling",
+        "interestedIn": "Men",
+        "lookingFor": "A serious relationship",
+        "activities": [
+            "Hunting invisible bugs.",
+            "Giving “puppy eyes” that should be illegal.",
+            "Barking at birds like it's personal."
+        ],
+        "personality": [
+            "heart bigger than their food bowl — and that’s saying something.",
+            "loyal, sweet, and ready to be someone’s favorite fur-friend.",
+            "lives life at 200% excitement — zoomies included."
+        ],
+        "music": [
+            "Rock",
+            "Pop",
+            "Classical"
+        ],
+        "firstDate": "Long walk or beach outing",
+        "spendTime": "Doing something adventurous"
+    },
+    {
+        "name": "Maria Fernanda Vega",
+        "age": 0.9,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/ceskoslovensky_vlcak__czechoslovakian_wolfdog.png",
+        "location": "Downtown, Toronto, Canada",
+        "about": "Tiny but mighty. Enjoys pampering, cozy cuddles, and being the princess of the house",
+        "interestedIn": "Everyone",
+        "lookingFor": "Friendship",
+        "activities": [
+            "Falling in love with every child they meet.",
+            "Playing tug-of-war like a tiny gladiator.",
+            "Performing dramatic sighs when ignored."
+        ],
+        "personality": [
+            "confidence of a dog twice their size and the charm to match.",
+            "picky gourmet who only approves of the finest crumbs.",
+            "fearless explorer of backyards, forests, and picnic baskets."
+        ],
+        "music": [
+            "Hip-Hop",
+            "Rock",
+            "Jazz"
+        ],
+        "firstDate": "Movie or concert night",
+        "spendTime": "Doing something adventurous"
+    },
+    {
+        "name": "Sandy Toupenet",
+        "age": 1.2,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/czechoslovakian-wolfdog-at-sea.png",
+        "location": "Gastown, Vancouver, Canada",
+        "about": "Independent but affectionate. Loves a good nap in the sun and casual strolls around the neighborhood.",
+        "interestedIn": "Everyone",
+        "lookingFor": "Just exploring",
+        "activities": [
+            "Giving nose boops without warning.",
+            "Rolling onto their back for belly rubs on command.",
+            "Sniffing car windows like a scientist on a mission."
+        ],
+        "personality": [
+            "steal your socks, your snacks, and probably your heart.",
+            "sunshine puppy who believes life is better with head scratches.",
+            "loves chasing butterflies more than catching them."
+        ],
+        "music": [
+            "Classical",
+            "Pop",
+            "Rock"
+        ],
+        "firstDate": "Long walk or beach outing",
+        "spendTime": "Relaxing at home"
+    },
+    {
+        "name": "Michelle Carter",
+        "age": 0.5,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/czechoslovakian_wolfdog_in_nature.png",
+        "location": "Old Montreal, Montreal, Canada",
+        "about": "Friendly and joyful. Loves water, fetch, and making friends everywhere.",
+        "interestedIn": "Everyone",
+        "lookingFor": "Casual dating",
+        "activities": [
+            "Pushing toys into your lap for instant playtime.",
+            "Leading walks even though they have no idea where they're going.",
+            "Destroying toys with surgical precision."
+        ],
+        "personality": [
+            "playful goofball who can’t resist a squeaky toy.",
+            "little adventurer who thinks every walk is a heroic quest.",
+            "loves long walks, short naps, and dramatic posing for photos."
+        ],
+        "music": [
+            "Jazz",
+            "Classical",
+            "Pop"
+        ],
+        "firstDate": "Movie or concert night",
+        "spendTime": "Doing something adventurous"
+    },
+    {
+        "name": "Kathe DuNoyer",
+        "age": 25,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/dog-png-30.png",
+        "location": "Beltline, Calgary, Canada",
+        "about": "Smart and active. Loves solving puzzles, playing fetch, and long runs in the park.",
+        "interestedIn": "Everyone",
+        "lookingFor": "Casual dating",
+        "activities": [
+            "Sniffing car windows like a scientist on a mission.",
+            "Staring longingly at human food.",
+            "Sunbathing like a small furry lizard."
+        ],
+        "personality": [
+            "sunshine puppy who believes life is better with head scratches.",
+            "curious nose-on-legs who must investigate EVERYTHING.",
+            "brave protector with a soft, marshmallow center."
+        ],
+        "music": [
+            "Hip-Hop",
+            "EDM",
+            "Jazz"
+        ],
+        "firstDate": "Long walk or beach outing",
+        "spendTime": "Doing something adventurous"
+    },
+    {
+        "name": "Sally Motter",
+        "age": 0.7,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/gerrie-van-der-walt-qxkwMt40d40-unsplash-1179x800.png",
+        "location": "ByWard Market, Ottawa, Canada",
+        "about": "Gentle and affectionate. Loves cuddles, soft walks, and making everyone smile.",
+        "interestedIn": "Women",
+        "lookingFor": "A serious relationship",
+        "activities": [
+            "Practicing professional-level begging.",
+            "Drooling on everything within a 3-foot radius.",
+            "Hosting zoomies at inappropriate hours."
+        ],
+        "personality": [
+            "pure joy with a wagging tail attached.",
+            "looking for a partner in crime for adventures and naps.",
+            "picky gourmet who only approves of the finest crumbs."
+        ],
+        "music": [
+            "Hip-Hop",
+            "Rock",
+            "Bollywood"
+        ],
+        "firstDate": "Long walk or beach outing",
+        "spendTime": "Relaxing at home"
+    },
+    {
+        "name": "Natasha Shtapauk",
+        "age": 1.9,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/istockphoto-2074118235-612x612.jpg",
+        "location": "Exchange District, Winnipeg, Canada",
+        "about": "Sweet and loving. Loves cuddles, naps, and gentle walks in the park.",
+        "interestedIn": "Everyone",
+        "lookingFor": "Just exploring",
+        "activities": [
+            "Supervising humans during meal prep.",
+            "Practicing professional-level begging.",
+            "Blocking doorways for attention tolls."
+        ],
+        "personality": [
+            "enjoys sunbeams, soft blankets, and soft hearts.",
+            "warm, gentle cloud of fur who just wants peace and snacks.",
+            "lives for treats, naps, and dramatic sighs."
+        ],
+        "music": [
+            "Pop",
+            "EDM",
+            "Jazz"
+        ],
+        "firstDate": "Long walk or beach outing",
+        "spendTime": "Traveling together"
+    },
+    {
+        "name": "Danielle Harper",
+        "age": 2.1,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/learning-about-the-shiloh-shepherd-dog-561b7352bd286.png",
+        "location": "Strathcona, Edmonton, Canada",
+        "about": "Loyal and strong. Enjoys guarding loved ones and playful tug-of-war games",
+        "interestedIn": "Men",
+        "lookingFor": "Friendship",
+        "activities": [
+            "Leading walks even though they have no idea where they're going.",
+            "Making new dog friends at the park.",
+            "Running in circles because the mood struck."
+        ],
+        "personality": [
+            "energetic explorer who treats every grass patch like sacred land.",
+            "cuddle-powered love machine with unlimited snuggles.",
+            "playful goofball who can’t resist a squeaky toy."
+        ],
+        "music": [
+            "Bollywood",
+            "EDM",
+            "Classical"
+        ],
+        "firstDate": "Outdoor adventure",
+        "spendTime": "Relaxing at home"
+    },
+    {
+        "name": "Riley Thompson",
+        "age": 4,
+        "gender": "Prefer not to say",
+        "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/shiloh-shepherd-puppy-lying-on-the-ground_Kristina-Osborne_Shutterstock.jpg",
+        "location": "North End, Halifax, Canada",
+        "about": "Energetic and fun-loving. Enjoys running, playing fetch, and making everyone laugh.",
+        "interestedIn": "Women",
+        "lookingFor": "Friendship",
+        "activities": [
+            "Sniffing other dogs’ butts with total confidence.",
+            "Supervising neighborhood activities from the window.",
+            "Wagging their tail so fast they helicopter."
+        ],
+        "personality": [
+            "loyal, sweet, and ready to be someone’s favorite fur-friend.",
+            "low-drama, high-cuddle dog with chill vibes only.",
+            "curious nose-on-legs who must investigate EVERYTHING."
+        ],
+        "music": [
+            "Rock",
+            "Bollywood",
+            "Hip-Hop"
+        ],
+        "firstDate": "Dinner date",
+        "spendTime": "Cooking or eating out"
+    },
+    {
+        "name": "Kim Kantner",
+        "age": 2,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/tervuren-dog-crate-size_large.png",
+        "location": "Old Quebec, Quebec City, Canada",
+        "about": "Curious and playful. Enjoys sniffing every corner, chasing birds, and exploring outdoors.",
+        "interestedIn": "Everyone",
+        "lookingFor": "Casual dating",
+        "activities": [
+            "Being offended by vacuum cleaners.",
+            "Carrying around toys like trophies.",
+            "Trying to befriend every dog within eyesight."
+        ],
+        "personality": [
+            "cuddle-powered love machine with unlimited snuggles.",
+            "energetic explorer who treats every grass patch like sacred land.",
+            "believes every lap is a throne and every human is royalty."
+        ],
+        "music": [
+            "Bollywood",
+            "Jazz",
+            "Hip-Hop"
+        ],
+        "firstDate": "Coffee and good conversation",
+        "spendTime": "Doing something adventurous"
+    },
+    {
+        "name": "Carolina Pedraita",
+        "age": 3.4,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/dogsImages/03108bb31631b80e7c74527ca615f43a3ac30d99/violet2.jpg",
+        "location": "Inner Harbour, Victoria, Canada",
+        "about": "Independent and curious. Loves exploring, relaxing, and playing occasional pranks.",
+        "interestedIn": "Everyone",
+        "lookingFor": "Casual dating",
+        "activities": [
+            "Pushing toys into your lap for instant playtime.",
+            "Doing parkour off the couch.",
+            "Sitting politely then forgetting manners instantly."
+        ],
+        "personality": [
+            "dreamer who stares out windows like a poetic soul.",
+            "sweet, silly, and always ready for a spontaneous playdate.",
+            "heart bigger than their food bowl — and that’s saying something."
+        ],
+        "music": [
+            "Pop",
+            "Classical",
+            "Hip-Hop"
+        ],
+        "firstDate": "Long walk or beach outing",
+        "spendTime": "Doing something adventurous"
+    },
+]
