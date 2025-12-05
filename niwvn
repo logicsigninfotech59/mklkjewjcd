@@ -1,0 +1,262 @@
+[
+    {
+      "id": "1",
+      "title": "New Year Singles Mixer",
+      "description": "Meet new people, unlock connections, and start 2026 with exciting matches.",
+      "startTime": "2026-01-05T19:30:00",
+      "address": "Skyline Lounge, City Center",
+      "bannerUrl": "https://images.pexels.com/photos/3171837/pexels-photo-3171837.jpeg",
+      "interestedCount": 65
+    },
+    {
+      "id": "2",
+      "title": "Coffee & Chemistry Date Night",
+      "description": "Cozy conversations over coffee with curated ice-breaker rounds.",
+      "startTime": "2026-01-12T18:00:00",
+      "address": "The Hive Co-working, Downtown",
+      "bannerUrl": "https://images.pexels.com/photos/164907/pexels-photo-164907.jpeg",
+      "interestedCount": 80
+    },
+    {
+      "id": "3",
+      "title": "Swipe Right Singles Party",
+      "description": "High-energy DJ night with in-app match meetups.",
+      "startTime": "2026-01-26T20:00:00",
+      "address": "PlayHouse Arena, Riverside",
+      "bannerUrl": "https://images.pexels.com/photos/776654/pexels-photo-776654.jpeg",
+      "interestedCount": 124
+    },
+
+    {
+      "id": "4",
+      "title": "Glow & Flow Dance Meetup",
+      "description": "Glow theme and fun moves to get conversations flowing.",
+      "startTime": "2026-02-02T19:00:00",
+      "address": "Pulse Dance Studio, Uptown",
+      "bannerUrl": "https://images.pexels.com/photos/1190298/pexels-photo-1190298.jpeg",
+      "interestedCount": 92
+    },
+    {
+      "id": "5",
+      "title": "Valentine’s Eve Speed Dating",
+      "description": "Find your match with fast-paced romantic mini dates.",
+      "startTime": "2026-02-13T18:30:00",
+      "address": "Couple Cafe Hall, Downtown",
+      "bannerUrl": "https://images.pexels.com/photos/2608517/pexels-photo-2608517.jpeg",
+      "interestedCount": 141
+    },
+    {
+      "id": "6",
+      "title": "Singles Adventure Walk",
+      "description": "A nature walk for friendly chats and fresh connections.",
+      "startTime": "2026-02-23T09:00:00",
+      "address": "Green Ridge Trek Trail",
+      "bannerUrl": "https://images.pexels.com/photos/745045/pexels-photo-745045.jpeg",
+      "interestedCount": 67
+    },
+
+    {
+      "id": "7",
+      "title": "March Match Madness",
+      "description": "Game-themed dating challenges with group bonding.",
+      "startTime": "2026-03-03T19:30:00",
+      "address": "Arcadia Play Zone",
+      "bannerUrl": "https://images.pexels.com/photos/666596/pexels-photo-666596.jpeg",
+      "interestedCount": 99
+    },
+    {
+      "id": "8",
+      "title": "Paint & Date Workshop",
+      "description": "Partner painting activities for creative romantic combos.",
+      "startTime": "2026-03-15T17:00:00",
+      "address": "Art House Studio, Midtown",
+      "bannerUrl": "https://images.pexels.com/photos/3810792/pexels-photo-3810792.jpeg",
+      "interestedCount": 78
+    },
+    {
+      "id": "9",
+      "title": "Singles Sunset Picnic",
+      "description": "Relaxing sunset meetup with romantic vibes and chill music.",
+      "startTime": "2026-03-27T17:30:00",
+      "address": "Seaside Park View",
+      "bannerUrl": "https://images.pexels.com/photos/1666021/pexels-photo-1666021.jpeg",
+      "interestedCount": 136
+    },
+
+    {
+      "id": "10",
+      "title": "April Fools’ Flirt Night",
+      "description": "Fun challenges and playful surprises that spark connections.",
+      "startTime": "2026-04-01T20:00:00",
+      "address": "FunTown Club, Central Plaza",
+      "bannerUrl": "https://images.pexels.com/photos/1757281/pexels-photo-1757281.jpeg",
+      "interestedCount": 110
+    },
+    {
+      "id": "11",
+      "title": "Outdoor Fitness Match",
+      "description": "Workout partner matching and group activities.",
+      "startTime": "2026-04-14T07:30:00",
+      "address": "City Stadium Lawn",
+      "bannerUrl": "https://images.pexels.com/photos/1954524/pexels-photo-1954524.jpeg",
+      "interestedCount": 74
+    },
+    {
+      "id": "12",
+      "title": "Wine & Hearts Soirée",
+      "description": "Sip fine wine and discover refined romantic interests.",
+      "startTime": "2026-04-26T19:00:00",
+      "address": "Royal Vineyard Club",
+      "bannerUrl": "https://images.pexels.com/photos/3171837/pexels-photo-3171837.jpeg",
+      "interestedCount": 156
+    },
+
+    {
+      "id": "13",
+      "title": "May Music Mixer",
+      "description": "Live acoustic vibes, match-based seating, and surprise duets.",
+      "startTime": "2026-05-04T18:30:00",
+      "address": "Harmony Hall Grounds",
+      "bannerUrl": "https://images.pexels.com/photos/164907/pexels-photo-164907.jpeg",
+      "interestedCount": 120
+    },
+    {
+      "id": "14",
+      "title": "Singles Road Trip Meetup",
+      "description": "Adventure crew forming and trip partner matching.",
+      "startTime": "2026-05-16T08:00:00",
+      "address": "City Travel Hub",
+      "bannerUrl": "https://images.pexels.com/photos/748626/pexels-photo-748626.jpeg",
+      "interestedCount": 62
+    },
+    {
+      "id": "15",
+      "title": "Blindfold Trust Challenge",
+      "description": "Build trust and laughter through blindfold team activities.",
+      "startTime": "2026-05-28T17:00:00",
+      "address": "Adventure Arena, Northside",
+      "bannerUrl": "https://images.pexels.com/photos/776654/pexels-photo-776654.jpeg",
+      "interestedCount": 97
+    },
+
+    {
+      "id": "16",
+      "title": "June Poolside Social",
+      "description": "Summer pool party with floating game stations for couples forming.",
+      "startTime": "2026-06-07T15:00:00",
+      "address": "AquaTown Resort",
+      "bannerUrl": "https://images.pexels.com/photos/2608517/pexels-photo-2608517.jpeg",
+      "interestedCount": 138
+    },
+    {
+      "id": "17",
+      "title": "Cook & Connect Date Night",
+      "description": "Partner cooking sessions designed for chemistry and teamwork.",
+      "startTime": "2026-06-19T18:00:00",
+      "address": "FoodTalk Culinary Studio",
+      "bannerUrl": "https://images.pexels.com/photos/3810792/pexels-photo-3810792.jpeg",
+      "interestedCount": 70
+    },
+    {
+      "id": "18",
+      "title": "Singles Movie Marathon",
+      "description": "Cozy screening with random seating match-ups.",
+      "startTime": "2026-06-30T20:00:00",
+      "address": "Galaxy Cinema Mall",
+      "bannerUrl": "https://images.pexels.com/photos/1666021/pexels-photo-1666021.jpeg",
+      "interestedCount": 142
+    },
+
+    {
+      "id": "19",
+      "title": "July Fireworks Date Fest",
+      "description": "Sparkling fireworks and romance under the night sky.",
+      "startTime": "2026-07-04T20:30:00",
+      "address": "Liberty Riverside Bay",
+      "bannerUrl": "https://images.pexels.com/photos/1757281/pexels-photo-1757281.jpeg",
+      "interestedCount": 159
+    },
+    {
+      "id": "20",
+      "title": "Adventure Park Love Hunt",
+      "description": "Clue-based partner adventure challenges and rides.",
+      "startTime": "2026-07-18T11:00:00",
+      "address": "ThrillPoint Adventure Park",
+      "bannerUrl": "https://images.pexels.com/photos/745045/pexels-photo-745045.jpeg",
+      "interestedCount": 83
+    },
+    {
+      "id": "21",
+      "title": "Singles Outdoor Cinema Night",
+      "description": "Chill movie night under the stars with date match seating.",
+      "startTime": "2026-07-30T19:30:00",
+      "address": "Hilltop Open Grounds",
+      "bannerUrl": "https://images.pexels.com/photos/666596/pexels-photo-666596.jpeg",
+      "interestedCount": 145
+    },
+
+    {
+      "id": "22",
+      "title": "August Beach Bash",
+      "description": "DJ party, bonfire, and water games for flirty summer vibes.",
+      "startTime": "2026-08-11T16:00:00",
+      "address": "Sunset Beach Shore",
+      "bannerUrl": "https://images.pexels.com/photos/1954524/pexels-photo-1954524.jpeg",
+      "interestedCount": 172
+    },
+    {
+      "id": "23",
+      "title": "Karaoke Match Night",
+      "description": "Random duet pairing for fun relationship sparks",
+      "startTime": "2026-08-21T19:00:00",
+      "address": "Voices Lounge Pub",
+      "bannerUrl": "https://images.pexels.com/photos/3171837/pexels-photo-3171837.jpeg",
+      "interestedCount": 101
+    },
+    {
+      "id": "24",
+      "title": "Craft & Love DIY Workshop",
+      "description": "Cute craft sessions with partner teaming and bonding.",
+      "startTime": "2026-08-31T17:30:00",
+      "address": "Creative Corner Studio",
+      "bannerUrl": "https://images.pexels.com/photos/3810792/pexels-photo-3810792.jpeg",
+      "interestedCount": 89
+    },
+
+    {
+      "id": "25",
+      "title": "September Casa Date Sessions",
+      "description": "Private lounge spaces for intimate conversations.",
+      "startTime": "2026-09-07T19:00:00",
+      "address": "Casa Royale Suites",
+      "bannerUrl": "https://images.pexels.com/photos/1666021/pexels-photo-1666021.jpeg",
+      "interestedCount": 118
+    },
+    {
+      "id": "26",
+      "title": "City Lights Match Walk",
+      "description": "Casual evening walk with guided chatting prompts.",
+      "startTime": "2026-09-16T18:30:00",
+      "address": "Metro Citywalk Plaza",
+      "bannerUrl": "https://images.pexels.com/photos/164907/pexels-photo-164907.jpeg",
+      "interestedCount": 68
+    },
+    {
+      "id": "27",
+      "title": "Singles Board Game Jam",
+      "description": "Team games and playful challenges to break the ice.",
+      "startTime": "2026-09-23T17:45:00",
+      "address": "GameHub Entertainment Zone",
+      "bannerUrl": "https://images.pexels.com/photos/748626/pexels-photo-748626.jpeg",
+      "interestedCount": 132
+    },
+    {
+      "id": "28",
+      "title": "Pre-Fall Love Kickoff",
+      "description": "Celebrate new beginnings with curated matchmaking.",
+      "startTime": "2026-09-30T19:30:00",
+      "address": "Event Hall Horizon",
+      "bannerUrl": "https://images.pexels.com/photos/2608517/pexels-photo-2608517.jpeg",
+      "interestedCount": 150
+    }
+]
