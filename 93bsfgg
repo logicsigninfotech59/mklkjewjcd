@@ -1,1 +1,288 @@
-
+[
+      {
+        "name": "Rebecca Summers",
+        "age": 22,
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/2.jpg",
+        "location": "Hollywood, Los Angeles, USA",
+        "about": "Coffee lover with a soft spot for quiet mornings",
+        "gender": "Female",
+        "interestedIn": "Men",
+        "lookingFor": "Casual dating",
+        "activities": [
+            "Watching movies or series",
+            "Working out",
+            "Cooking"
+        ],
+        "personality": [
+            "Calm and thoughtful",
+            "Creative and artistic"
+        ],
+        "music": [
+            "Pop",
+            "Bollywood",
+            "Hip-Hop"
+        ],
+        "firstDate": "Dinner date",
+        "spendTime": "Watching shows or movies"
+    },    
+    {
+        "name": "Rebecca Summers",
+        "age": 22,
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/2.jpg",
+        "location": "Hollywood, Los Angeles, USA",
+        "about": "Coffee lover with a soft spot for quiet mornings",
+        "gender": "Female",
+        "interestedIn": "Men",
+        "lookingFor": "Casual dating",
+        "activities": [
+            "Watching movies or series",
+            "Working out",
+            "Cooking"
+        ],
+        "personality": [
+            "Calm and thoughtful",
+            "Creative and artistic"
+        ],
+        "music": [
+            "Pop",
+            "Bollywood",
+            "Hip-Hop"
+        ],
+        "firstDate": "Dinner date",
+        "spendTime": "Watching shows or movies"
+    },
+    {
+        "name": "Tara Collins",
+        "age": 24,
+        "gender": "Prefer not to say",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/5.jpg",
+        "location": "Uptown, Dallas, USA",
+        "about": "Weekend explorer who enjoys simple moments",
+        "interestedIn": "Men",
+        "lookingFor": "Friendship",
+        "activities": [
+            "Exploring nature",
+            "Working out",
+            "Partying"
+        ],
+        "personality": [
+            "Funny and outgoing",
+            "Creative and artistic"
+        ],
+        "music": [
+            "Classical",
+            "Jazz",
+            "Rock"
+        ],
+        "firstDate": "Coffee and good conversation",
+        "spendTime": "Cooking or eating out"
+    },
+    {
+        "name": "Ana Teracine",
+        "age": 24,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/8.jpg",
+        "location": "Back Bay, Boston, USA",
+        "about": "A mix of introvert energy and spontaneous plans",
+        "interestedIn": "Men",
+        "lookingFor": "Casual dating",
+        "activities": [
+            "Working out",
+            "Partying",
+            "Reading books"
+        ],
+        "personality": [
+            "Ambitious and driven",
+            "Caring and emotional"
+        ],
+        "music": [
+            "Jazz",
+            "Hip-Hop",
+            "Rock"
+        ],
+        "firstDate": "Outdoor adventure",
+        "spendTime": "Traveling together"
+    },
+    {
+        "name": "Riley Thompson",
+        "age": 30,
+        "gender": "Prefer not to say",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/18.jpg",
+        "location": "North End, Halifax, Canada",
+        "about": "Sarcasm fluent, kindness guaranteed",
+        "interestedIn": "Women",
+        "lookingFor": "Friendship",
+        "activities": [
+            "Exploring nature",
+            "Watching movies or series",
+            "Working out"
+        ],
+        "personality": [
+            "Caring and emotional",
+            "Calm and thoughtful"
+        ],
+        "music": [
+            "Rock",
+            "Bollywood",
+            "Hip-Hop"
+        ],
+        "firstDate": "Dinner date",
+        "spendTime": "Cooking or eating out"
+    },
+    {
+        "name": "Jordana Lorraine",
+        "age": 29,
+        "gender": "Prefer not to say",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/25.jpg",
+        "location": "Old Town, Edinburgh, UK",
+        "about": "Enjoying life one simple moment at a time",
+        "interestedIn": "Everyone",
+        "lookingFor": "Just exploring",
+        "activities": [
+            "Working out",
+            "Watching movies or series",
+            "Cooking"
+        ],
+        "personality": [
+            "Caring and emotional",
+            "Ambitious and driven"
+        ],
+        "music": [
+            "Pop",
+            "Rock",
+            "Classical"
+        ],
+        "firstDate": "Dinner date",
+        "spendTime": "Cooking or eating out"
+    },
+    {
+        "name": "Violet Kleefisch",
+        "age": 38,
+        "gender": "Prefer not to say",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/26.jpg",
+        "location": "West End, Glasgow, UK",
+        "about": "Deep thinker who loves genuine people",
+        "interestedIn": "Men",
+        "lookingFor": "Just exploring",
+        "activities": [
+            "Travelling",
+            "Reading books",
+            "Exploring nature"
+        ],
+        "personality": [
+            "Adventurous and spontaneous",
+            "Funny and outgoing"
+        ],
+        "music": [
+            "Rock",
+            "Bollywood",
+            "Pop"
+        ],
+        "firstDate": "Long walk or beach outing",
+        "spendTime": "Cooking or eating out"
+    },
+    {
+        "name": "Mert Cengiz",
+        "age": 42,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/27.jpg",
+        "location": "Clifton, Bristol, UK",
+        "about": "Nature lover with a heart full of curiosity",
+        "interestedIn": "Men",
+        "lookingFor": "Just exploring",
+        "activities": [
+            "Working out",
+            "Exploring nature",
+            "Partying"
+        ],
+        "personality": [
+            "Ambitious and driven",
+            "Adventurous and spontaneous"
+        ],
+        "music": [
+            "Bollywood",
+            "Hip-Hop",
+            "Rock"
+        ],
+        "firstDate": "Movie or concert night",
+        "spendTime": "Traveling together"
+    },
+    {
+        "name": "Alexis Monroe",
+        "age": 28,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/38.jpg",
+        "location": "Petite France, Strasbourg, France",
+        "about": "Here for mature conversations and real connections",
+        "interestedIn": "Women",
+        "lookingFor": "Friendship",
+        "activities": [
+            "Travelling",
+            "Exploring nature",
+            "Watching movies or series"
+        ],
+        "personality": [
+            "Ambitious and driven",
+            "Calm and thoughtful"
+        ],
+        "music": [
+            "Bollywood",
+            "Hip-Hop",
+            "EDM"
+        ],
+        "firstDate": "Coffee and good conversation",
+        "spendTime": "Traveling together"
+    },
+    {
+        "name": "Sheri Marouf",
+        "age": 24,
+        "gender": "Prefer not to say",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/39.jpg",
+        "location": "Antigone, Montpellier, France",
+        "about": "Love exploring cities and discovering hidden cafés",
+        "interestedIn": "Everyone",
+        "lookingFor": "Friendship",
+        "activities": [
+            "Reading books",
+            "Partying",
+            "Working out"
+        ],
+        "personality": [
+            "Funny and outgoing",
+            "Ambitious and driven"
+        ],
+        "music": [
+            "Bollywood",
+            "Jazz",
+            "Rock"
+        ],
+        "firstDate": "Outdoor adventure",
+        "spendTime": "Traveling together"
+    },
+    {
+        "name": "Paulina Winters",
+        "age": 24,
+        "gender": "Female",
+        "image": "https://raw.githubusercontent.com/logicsigninfotech59/mklkjewjcd/refs/heads/main/imgs/40.jpg",
+        "location": "Île de Nantes, Nantes, France",
+        "about": "Work hard, relax harder",
+        "interestedIn": "Everyone",
+        "lookingFor": "A serious relationship",
+        "activities": [
+            "Partying",
+            "Working out",
+            "Travelling"
+        ],
+        "personality": [
+            "Creative and artistic",
+            "Ambitious and driven"
+        ],
+        "music": [
+            "Bollywood",
+            "Classical",
+            "Jazz"
+        ],
+        "firstDate": "Dinner date",
+        "spendTime": "Cooking or eating out"
+    }
+]
